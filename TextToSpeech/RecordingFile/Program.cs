@@ -2,6 +2,8 @@ using System;
 using Google.Cloud.TextToSpeech.V1;
 using System.IO;
 
+//Rowbottom first attempts.  Minor changes to language and output.  Locally I have added to winforms.  Will post at some point.
+
 namespace TextToSpeechApi
 {
     class Program
